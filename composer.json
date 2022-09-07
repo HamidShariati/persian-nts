@@ -1,8 +1,8 @@
 {
-	"name": "dena-a/persian-nts",
+	"name": "hmdshariati/persian-nts",
 	"description": "a Laravel Number to Speech package for Persian language",
 	"type": "library",
-	"homepage": "https://github.com/dena-a/persian-nts",
+	"homepage": "https://github.com/hmdshariati/persian-nts",
 	"license": "MIT",
 	"keywords": [
 		"laravel",
@@ -14,7 +14,7 @@
 	"authors": [
 		{
 			"name": "Dena Ajdari",
-			"homepage": "https://github.com/dena-a"
+			"homepage": "https://github.com/hmdshariati"
 		}
 	],
 	"minimum-stability": "dev",
